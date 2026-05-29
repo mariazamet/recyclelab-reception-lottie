@@ -1,1 +1,1 @@
-# recyclelab-reception-lottie
+# recyclelab-lottie
